@@ -1,0 +1,3 @@
+class MagicViewController < UIViewController
+
+end
